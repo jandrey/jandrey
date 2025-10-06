@@ -5,7 +5,6 @@
 <div style="display: flex;">
     <a href="https://github.com/jandrey">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jandrey&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-    <img height="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandrey&hide_progress=true&langs_count=6&theme=gruvbox"/>
 </div>
 
 
