@@ -4,7 +4,7 @@
 
 <div style="display: flex;">
     <a href="https://github.com/jandrey">
-    ![GitHub Stats](<STATS_URL>)
+   ![GitHub Stats](<STATS_URL>)
 </div>
 
 
