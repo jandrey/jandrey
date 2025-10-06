@@ -1,7 +1,7 @@
 # Hello, I'm Jandrey Oliveira 👋
 
 ## 📊 GitHub Stats
-![Jandrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jandrey&show_icons=true&theme=dark)
+![Jandrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jandrey&show_icons=true&count_private=true&hide=prs,issues)
 ## 📊 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jandrey&layout=compact&theme=dark)
 
