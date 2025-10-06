@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats
 ![Jandrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jandrey&show_icons=true&count_private=true&hide=prs,issues&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🛠️ Tech Stack
