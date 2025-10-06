@@ -1,8 +1,8 @@
 # Hello, I'm Jandrey Oliveira 👋
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox)
 ![Jandrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2022&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox)
 
 
 ## 🛠️ Tech Stack
