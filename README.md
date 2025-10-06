@@ -4,7 +4,7 @@
 
 <div style="display: flex;">
     <a href="https://github.com/jandrey">
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jandrey<STATS_URL>show_icons=true<STATS_URL>theme=gruvbox<STATS_URL>include_all_commits=true<STATS_URL>count_private=true)
+   ![GitHub Stats](<STATS_URL>)
 </div>
 
 
