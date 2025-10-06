@@ -1,7 +1,7 @@
 # Hello, I'm Jandrey Oliveira 👋
 
 ## 📊 GitHub Stats
-<table>
+<table cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=jandrey&show_icons=true&theme=gruvbox" width="450"/>
@@ -11,6 +11,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
