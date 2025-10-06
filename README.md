@@ -1,8 +1,8 @@
 # Hello, I'm Jandrey Oliveira 👋
 
 ## 📊 GitHub Stats
-![Jandrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jandrey&show_icons=true&count_private=true&hide=prs,issues&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=synthwave)
+![Jandrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2023&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=onedark)
 
 
 ## 🛠️ Tech Stack
