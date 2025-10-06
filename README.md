@@ -1,16 +1,12 @@
 # Hello, I'm Jandrey Oliveira 👋
 
 ## 📊 GitHub Stats
-<table cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jandrey&show_icons=true&theme=gruvbox" width="450"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jandrey&layout=compact&theme=gruvbox" width="450"/>
-    </td>
-  </tr>
-</table>
+
+<div style="display: flex;">
+    <a href="https://github.com/joas-assuncao">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jandrey&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" width="450"/>
+    <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=joas-assuncao&layout=compact&langs_count=6&theme=gruvbox" width="450"/>
+</div>
 
 
 
